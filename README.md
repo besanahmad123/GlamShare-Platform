@@ -9,7 +9,7 @@ dress rental and reservation platform.
 ## 📽️ Project Report & Presentation
 - 📄 **Full Project Report:** [View Report](SW_PROJECT.pdf)
 - 📊 **Presentation Deck:** [View Presentation](GlamShare_Digital_Ecosystem.pdf)
-- 🎬 **Video Demo:** [Watch Demo Video](YOUR_VIDEO_LINK_HERE)
+- 🎬 **Video Demo:** [Watch Demo Video](https://drive.google.com/file/d/1lCMc96qPa0WHkrWPqOyTr8IfejYlYrWf/view?usp=sharing)
 
 ---
 
